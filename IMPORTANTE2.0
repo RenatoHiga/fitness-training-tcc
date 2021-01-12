@@ -1,0 +1,11 @@
+insert into admin (name_admin, password_admin, email_admin, user_admin)
+values ('Renato Higa', md5(123), 'renatoka14@gmail.com', 'admin');
+
+Login
+
+Usuario
+Senha
+
+La dentro pra cadastrar
+insert into admin (name_admin, password_admin, email_admin, user_admin)
+values ('João Lucas', md5(54321), 'joaolucas@gmail.com', 'joaolucas');

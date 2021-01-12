@@ -1,0 +1,7 @@
+AVISO!
+
+O ARQUIVO DO PHP "user.ini" DEVE TER O 
+upload_max_filesize = 50M
+post_max_size = 50M
+
+PARA QUE POSSA ENVIAR VÍDEOS MAIORES
